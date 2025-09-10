@@ -1,0 +1,9 @@
+torch
+torchvision
+torchmetrics
+pandas
+tqdm
+numpy
+albumentations
+seaborn
+matplotlib
